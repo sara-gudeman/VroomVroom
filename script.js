@@ -1,6 +1,6 @@
 // Simple follow the mouse script
  
-var divName = 'mydiv'; // div that is to follow the mouse
+var divName = 'carDiv'; // div that is to follow the mouse
                        // (must be position:absolute)
 var offX = -15;          // X offset from mouse position
 var offY = -25;          // Y offset from mouse position

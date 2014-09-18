@@ -1,0 +1,9 @@
+* {
+background-color: teal;
+}
+ 
+#mydiv {
+position:absolute; overflow:hidden; visibility: hidden;
+z-index:999; width:50px; height:30px;
+background-color:#ffffcc;
+}
